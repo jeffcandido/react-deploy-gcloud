@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Simple React App to make a proof-of-concenpt about OpenID Connect.
         </p>
         <a
           className="App-link"
